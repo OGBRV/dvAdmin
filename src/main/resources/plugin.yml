@@ -1,0 +1,15 @@
+name: dvAdmin
+main: me.danielvianna.dvadmin.Main
+version: 1.0.0
+website: https://github.com/OGBRV
+description: Plugin de admin
+author: OGBRVV
+depend:
+  - Vault
+commands:
+  admin:
+    description: Ativa ou desativa o modo admin
+  setjail:
+    description: Seta a localizacao da jail
+  build:
+    description: Ativa ou desativa a build
